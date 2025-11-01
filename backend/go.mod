@@ -1,4 +1,4 @@
-module wish-list
+module github.com/Jeltok88/wish-list
 
 go 1.24.5
 

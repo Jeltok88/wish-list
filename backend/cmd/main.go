@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Jeltok88/calendar/project_wish_list/backend/app/internal/server"
+	"github.com/Jeltok88/wish-list/backend/app/internal/server"
 )
 
 func main() {
